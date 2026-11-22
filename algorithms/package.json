@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx ./solutions_and_others/16-3Sum-Closest-sol.ts"
+    },
   "keywords": [],
   "type": "commonjs",
   "devDependencies": {
